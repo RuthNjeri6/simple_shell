@@ -13,6 +13,8 @@ The simple_shell does not take any options. However, you can supply username.
 useradd(8), passwd(5), simple_shell.debian(8) 
 .SH BUGS
 No known bugs.
+.SH EXAMPLES
+simple_shell ls -al
 .SH AUTHORS
 David Kanjuru (kanjurus8@gmail.com)
 Ruth Njeri (rthmbugua@gmail.com)
