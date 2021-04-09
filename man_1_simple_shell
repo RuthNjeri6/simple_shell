@@ -1,0 +1,18 @@
+.\" Manpage for simple_shell.
+.\" Contact kanjurus8@gmail.com rthmbugua@gmail.com to correct errors or typos.
+.TH man 8 "09 Apr 2021" "1.0" "simple_shell man page"
+.SH NAME
+simple_shell \- A custom Unix shell
+.SH SYNOPSIS
+simple_shell [USERNAME]
+.SH DESCRIPTION
+simple_shell is high level shell program for adding users to LDAP server.  On Debian, administrators should usually use simple_shell.debian(8) instead.
+.SH OPTIONS
+The simple_shell does not take any options. However, you can supply username.
+.SH SEE ALSO
+useradd(8), passwd(5), simple_shell.debian(8) 
+.SH BUGS
+No known bugs.
+.SH AUTHORS
+David Kanjuru (kanjurus8@gmail.com)
+Ruth Njeri (rthmbugua@gmail.com)
